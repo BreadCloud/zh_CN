@@ -1,0 +1,62 @@
+#zh_CN
+
+##########
+# STATES #
+##########
+entity.tamedmob.switchState=The status of %s was set to %s. 
+entity.tamedmob.stateAggressive=主动
+entity.tamedmob.stateAssist=协助
+entity.tamedmob.statePassive=和平
+entity.tamedmob.levelup=的等级提升了! 当前等级:
+entity.tamedmob.isWaiting=进入留守模式.
+entity.tamedmob.isFollowing=进入跟随模式.
+
+##############
+# TAMED MOBS #
+##############
+entity.TamedZombie.name=僵尸(驯化)
+entity.TamedCreeper.name=爬行者(驯化)
+entity.TamedSpider.name=蜘蛛(驯化)
+
+###############
+# GUI-STRINGS #
+###############
+gui.name.title=给你的伙伴宠物起个名字吧:
+gui.name.confirm=确定
+gui.name.cancel=取消
+
+gui.upgrades.notEnough=没有足够的技能点数!
+gui.upgrades.available=加点!
+gui.upgrades.upgradePoint=级技能点
+gui.upgrades.upgradePoints=技能点数
+gui.upgrades.upgrade=升级
+gui.upgrades.killsRemaining=击杀怪物升级还差: 
+gui.upgrades.costs=消耗: 
+gui.upgrades.nextUpgrade=下次升级可获得的属性: 
+gui.upgrades.highestLevel=此技能等级已达到最大!
+gui.upgrades.maxHealth=生命值上限
+gui.upgrades.attackDamage=攻击力
+gui.upgrades.attackInterval=快速攻击
+gui.upgrades.attackInterval2=%s的攻击速度
+gui.upgrades.respawn=重生
+gui.ugprades.activateRespawn=升级后解锁重生能力!
+gui.upgrades.fuseTime=急速爆破
+gui.upgrades.secFuseTime=TNT引爆时间
+gui.upgrades.poisoning=剧毒
+gui.upgrades.poisoningDuration=秒中毒时长
+
+gui.tamemob.failed=驯服失败!
+gui.tamemob.success=驯服成功!
+gui.tamemob.title=在进度条结束时点下所有按钮!
+
+########
+# CHAT #
+########
+entity.tamedmob.hasDied=非常不幸的消息,你的宠物伙伴:%s在战斗时死去了...
+entity.tamedmob.hasDiedButCanRespawn=非常不幸的消息,你的宠物伙伴:%s在战斗时死去了, 好消息是它会在3分钟以后重生!
+entity.tamedmob.startFollowing=§a[%s]§b已成为了你的宠物伙伴!
+
+#########
+# ITEMS #
+#########
+item.brandingIron.name=宠物伙伴杖
